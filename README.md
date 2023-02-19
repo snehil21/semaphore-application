@@ -9,3 +9,7 @@ Assume a cigarette requires three ingredients to make and smoke: tobacco, paper,
 
 solution :
 There is also a non-smoking agent who enables the smokers to make their cigarettes by arbitrarily selecting two of the supplies to place on the table. The smoker who has the third supply should remove the two items from the table, using them (along with their own supply) to make a cigarette, which they smoke for a while. Once the smoker has finished his cigarette, the agent places two new random items on the table. This process continues forever.
+
+If you encounter any issues or have any questions about the given solution/code, feel free to create a new issue in the repository.
+
+Thank you for using the repository, and I hope you find it helpful !
